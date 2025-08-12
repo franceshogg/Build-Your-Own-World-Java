@@ -29,8 +29,15 @@ To-do list:
 > Be sure to include BOTH Windows and Unix command  
 > Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
 
-- All the `code` required to get started
-- Images of what it should look like
+- Clone repository:
+   - git clone https://github.com/franceshogg/Build-Your-Own-World-Java.git
+- Nativate to the root folder
+- Compile Engine.java and add the algs4.jar file to the classpath:
+   - UNIX: javac -cp .:algs4.jar byow/Core/Engine.java
+   - Windows: javac -cp .;algs4.jar byow\Core\Engine.java
+- Run code:
+   - UNIX: java -cp .:algs4.jar byow.Core.Engine
+   - Windows: java -cp .;algs4.jar byow.Core.Engine
 
 ## Usage
 
