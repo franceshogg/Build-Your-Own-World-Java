@@ -32,12 +32,6 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
 - Clone repository:
    - git clone https://github.com/franceshogg/Build-Your-Own-World-Java.git
 - Nativate to the root folder
@@ -50,7 +44,11 @@ To-do list:
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+* Click 'L' to load a previous game, 'N' to start a new game, and 'Q' to quit.
+* If new game, type in a random series of any numbers followed by S to generate a unique world.
+* Move the Avatar using WASD keys and collect the food (apple icon).
+* Click 'F' to toggle a small view around the avatar.
+* Press ':' and 'q' to quit and save the game.
 
 ## Contributors
 
