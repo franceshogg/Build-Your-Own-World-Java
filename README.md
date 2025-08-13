@@ -1,8 +1,8 @@
-# ANTS VS BEES
+# BUILD YOUR OWN WORLD GAME
 
 ## Project Description
 
-This is a game coded in Python where ants defend their colony from invading bees. The game takes place in a tunnel. Each turn, new bees may enter, the player can place ants, and then all insects act: Ants gather food or attack, while bees move forward or sting. The bees win if a bee reaches the tunnel’s end or kills the QueenAnt, and the ants win if all bees are defeated.
+This is a tile-based game in Java that creates different "worlds" (different seeds generate different tile layouts) that player can move the avatar through to collect food. 
 
 ## Technologies Used
 
