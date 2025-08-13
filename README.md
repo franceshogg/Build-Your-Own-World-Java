@@ -6,9 +6,9 @@ This is a Java-based project that generates a 2D tile-based world with rooms, ha
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Java 17+
+* Princeton’s algs4 libraries
+* TETile Engine (byow.TileEngine)
 
 ## Features
 
