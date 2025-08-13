@@ -50,11 +50,3 @@ To-do list:
 * Click 'F' to toggle a small view around the avatar. Press 'F' again to remove the small view. 
 * Press ':' and 'q' to quit and save the game.
 
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-
-## License
-
-This project uses the following license: [<license_name>](<link>).
-
