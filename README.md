@@ -47,7 +47,7 @@ To-do list:
 * Click 'L' to load a previous game, 'N' to start a new game, and 'Q' to quit.
 * If new game, type in a random series of any numbers followed by S to generate a unique world.
 * Move the Avatar using WASD keys and collect the food (apple icon).
-* Click 'F' to toggle a small view around the avatar.
+* Click 'F' to toggle a small view around the avatar. Press 'F' again to remove the small view. 
 * Press ':' and 'q' to quit and save the game.
 
 ## Contributors
